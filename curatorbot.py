@@ -6,7 +6,7 @@ import schedule
 import curatorbase
 from calendar_client import ggl
 
-bot = telebot.TeleBot("6605946285:AAEvd9_SFyySG_jVVAReIywRLxCwWUAZYHU")
+bot = telebot.TeleBot("")
 
 calendar_actual = []
 calendar_status0 = []
